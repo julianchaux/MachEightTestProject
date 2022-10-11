@@ -5,13 +5,8 @@
   <ol>
     <li><a href="#About-this-Repository">About This Repository</a></li>
     <li><a href="#Using-this-Repository">Using this Repository</a></li>
-    <li><a href="#Course-Workflow">Course Workflow</a></li>
-    <li><a href="#Features">Features</a></li>
-    <li><a href="#Pre-Course-Requirments">Pre-Course Requirments</a></li>
-    <li><a href="#Link-to-the-Course">Link to the Course</a></li>
-    <li><a href="#Notes">Notes</a></li>
-    <li><a href="#Instructors">Instructors</a></li>
-    <li><a href="#License">License</a></li>
+    <li><a href="#Requirements">Requirements</a></li>
+    <li><a href="#Author">Author</a></li>
   </ol>
 </details>
 
@@ -26,3 +21,10 @@ This repository is the proposed solution to the coding challenge for MachEight.
 git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
 
+----
+## Requirements
+
+----
+## Author
+
+Julián René Cháux Cedeño - [Profile Link]([https://www.linkedin.com/in/muhammad-luqman-9b227a11b/](https://www.linkedin.com/in/julianrenechaux-robotics-ai/)  
