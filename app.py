@@ -12,10 +12,10 @@ def checkSumPair(numbers, total_sum):
     return result
 
 if __name__ == "__main__":
-   
     try:
         numbers = [int(x) for x in sys.argv[1].split(",")]
         total_sum = int(sys.argv[2])
-        print(checkSumPair(numbers, total_sum))
+        output = checkSumPair(numbers, total_sum)
+        print(output)
     except ValueError:
         print("Please, enter only non-equal integers...")
