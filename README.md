@@ -1,4 +1,4 @@
- MachEight Test Project
+# MachEight Test Project
 
 <details open="open">
   <summary>Table of Contents</summary>
