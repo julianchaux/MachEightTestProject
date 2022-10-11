@@ -27,4 +27,4 @@ git clone https://github.com/julianchaux/MachEightTestProject.git
 ----
 ## Author
 
-Julián René Cháux Cedeño - [Profile Link]([https://www.linkedin.com/in/muhammad-luqman-9b227a11b/](https://www.linkedin.com/in/julianrenechaux-robotics-ai/)  
+Julián René Cháux Cedeño - [Profile Link](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/](https://www.linkedin.com/in/julianrenechaux-robotics-ai/)  
