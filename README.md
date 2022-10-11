@@ -1,4 +1,4 @@
-# MachEight Test Project
+ MachEight Test Project
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -23,6 +23,9 @@ git clone https://github.com/julianchaux/MachEightTestProject.git
 
 ----
 ## Requirements
+
+**Program tested with:**
+* Python 3.9.12
 
 ----
 ## Author
