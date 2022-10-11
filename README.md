@@ -18,8 +18,6 @@
 ## About this Repository
 This is repository for the course **ROS Navigation Stack and SLAM for Autonomous Custom Robot** availble at Udemy . Complete source code is open sourced . Notes are also attached in root of the repository.
 
- ![alt text](https://github.com/noshluk2/ROS-Navigation-Stack-and-SLAM-for-Autonomous-Custom-Robot/blob/master/Image_resources/main_cover.png)
-- **[[Get course Here]](https://www.udemy.com/course/robotics-with-ros-build-custom-robots-from-scratch/?couponCode=APRIL_END)**
 ----
 ## Using this Repository
 * Move into your workspace/src folder
