@@ -30,7 +30,7 @@ The task is to write a function that finds pairs of integers from a list that su
 ```
 python app.py [list] [target-sum]
 ```
-For a specific example, as parameters we enter the list of values [1,15,14,25,-25,-1,6,4,-15,35] and the target sum 10.
+For a specific example, as parameters we enter the list of values 1,15,14,25,-25,-1,6,4,-15,35 and the target sum 10.
 ```
 python app.py 1,15,14,25,-25,-1,6,4,-15,35 10
 ```
