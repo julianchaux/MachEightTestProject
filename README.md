@@ -5,6 +5,7 @@
   <ol>
     <li><a href="#About-this-Repository">About This Repository</a></li>
     <li><a href="#Using-this-Repository">Using this Repository</a></li>
+    <li><a href="#Using-the-main-app">Using the Main Application</a></li>
     <li><a href="#Requirements">Requirements</a></li>
     <li><a href="#Author">Author</a></li>
   </ol>
@@ -17,6 +18,14 @@ This repository is the proposed solution to the coding challenge for MachEight.
 ## Using this Repository
 
 * Move into a folder and clone the repository:
+```
+git clone https://github.com/julianchaux/MachEightTestProject.git
+```
+
+----
+## Using the Main Application
+
+* XXXXXX:
 ```
 git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
