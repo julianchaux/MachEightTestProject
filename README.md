@@ -38,6 +38,8 @@ The following image shows the form execution of the application and the correspo
 
 ![Output App](ImageResource/Output1.jpg)
 
+It is verified that all pairs of numbers found add up to the target value.
+
 ----
 ## Using the Tests
 
