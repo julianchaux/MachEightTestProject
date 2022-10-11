@@ -20,12 +20,8 @@ This is repository for the course **ROS Navigation Stack and SLAM for Autonomous
 
 ----
 ## Using this Repository
-* Move into your workspace/src folder
- ```
- cd path/to/ros1_ws/src/
-##e.g cd ~/catkin_ws/src/
-  ```
-* Clone the repository in your workspace
+
+* Move into a folder and clone the repository in your workspace
 ```
 git clone https://github.com/noshluk2/ROS-Navigation-Stack-and-SLAM-for-Autonomous-Custom-Robot
 ```
