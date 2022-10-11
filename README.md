@@ -6,6 +6,7 @@
     <li><a href="#About-this-Repository">About This Repository</a></li>
     <li><a href="#Using-this-Repository">Using this Repository</a></li>
     <li><a href="#Using-the-Main-Application">Using the Main Application</a></li>
+    <li><a href="#Using-the-Tests">Using the Tests</a></li>
     <li><a href="#Requirements">Requirements</a></li>
     <li><a href="#Author">Author</a></li>
   </ol>
@@ -24,6 +25,14 @@ git clone https://github.com/julianchaux/MachEightTestProject.git
 
 ----
 ## Using the Main Application
+
+* XXXXXX:
+```
+git clone https://github.com/julianchaux/MachEightTestProject.git
+```
+
+----
+## Using the Tests
 
 * XXXXXX:
 ```
