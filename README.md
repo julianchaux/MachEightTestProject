@@ -16,13 +16,13 @@
 </details>
 
 ## About this Repository
-This is repository for the course **ROS Navigation Stack and SLAM for Autonomous Custom Robot** availble at Udemy . Complete source code is open sourced . Notes are also attached in root of the repository.
+This repository is the proposed solution to the coding challenge for MachEight.
 
 ----
 ## Using this Repository
 
-* Move into a folder and clone the repository in your workspace
+* Move into a folder and clone the repository:
 ```
-git clone https://github.com/noshluk2/ROS-Navigation-Stack-and-SLAM-for-Autonomous-Custom-Robot
+git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
 
