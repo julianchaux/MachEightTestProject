@@ -13,7 +13,7 @@
 </details>
 
 ## About this Repository
-This repository is the proposed solution to the coding challenge for MachEight.  The requirements are described in the file ![README_entry_level.md](README_entry_level.md)
+This repository is the proposed solution to the coding challenge for MachEight.  The requirements are described in the file [README_entry_level.md](README_entry_level.md)
 
 ----
 ## Using this Repository
