@@ -30,7 +30,7 @@ git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
 git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
-![alt text](https://github.com/noshluk2/ROS-Navigation-Stack-and-SLAM-for-Autonomous-Custom-Robot/blob/master/Image_resources/main_cover.png)
+![Output App](ImageResource/Output1.jpg)
 
 ----
 ## Using the Tests
@@ -39,7 +39,8 @@ git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
 git clone https://github.com/julianchaux/MachEightTestProject.git
 ```
-![alt text](https://github.com/noshluk2/ROS-Navigation-Stack-and-SLAM-for-Autonomous-Custom-Robot/blob/master/Image_resources/main_cover.png)
+![Output Test 1](ImageResource/OutputTest1.jpg)
+![Output Test 2](ImageResource/OutputTest2.jpg)
 
 ----
 ## Requirements
