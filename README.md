@@ -35,6 +35,7 @@ For a specific example, as parameters we enter the list of values 1,15,14,25,-25
 python app.py 1,15,14,25,-25,-1,6,4,-15,35 10
 ```
 The following image shows the form execution of the application and the corresponding output:
+
 ![Output App](ImageResource/Output1.jpg)
 
 ----
