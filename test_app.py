@@ -7,7 +7,7 @@ class TestApp(unittest.TestCase):
     numbers = []
 
     def setUp(self):
-        self.total_sum = 10
+        self.total_sum = 100
         self.numbers = [1,15,14,25,-25,-1,6,4,-15,35,-100,45,89,-10,20]
 
     def test_app(self):
