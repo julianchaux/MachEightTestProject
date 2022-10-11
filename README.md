@@ -56,6 +56,8 @@ The second unit test was done by entering target sum values that were not as a p
 
 ![Output Test 2](ImageResource/OutputTest2.jpg)
 
+To modify the test values, you have to modify the [test_app.py](test_app.py) script, changing the values in the variables ***self.total_sum*** and ***self.numbers***.
+
 ----
 ## Requirements
 
