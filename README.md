@@ -13,7 +13,7 @@
 </details>
 
 ## About this Repository
-This repository is the proposed solution to the coding challenge for MachEight.  The requirements are described in the file ![alt text](https://github.com/noshluk2/ROS-Navigation-Stack-and-SLAM-for-Autonomous-Custom-Robot/blob/master/Image_resources/main_cover.png)
+This repository is the proposed solution to the coding challenge for MachEight.  The requirements are described in the file ![alt text](README_entry_level.md)
 
 ----
 ## Using this Repository
