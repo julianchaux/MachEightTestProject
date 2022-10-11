@@ -18,7 +18,7 @@
 ## About this Repository
 This repository is the proposed solution to the coding challenge for MachEight.
 
-----
+---
 ## Using this Repository
 
 * Move into a folder and clone the repository:
