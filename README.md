@@ -43,11 +43,17 @@ It is verified that all pairs of numbers found add up to the target value.
 ----
 ## Using the Tests
 
-* XXXXXX:
+To test the execution of the application and as good programming practices, two unit tests were created using the [unittest](https://docs.python.org/3/library/unittest.html) library. The structure for executing the tests is:
 ```
-git clone https://github.com/julianchaux/MachEightTestProject.git
+python test_app.py
 ```
+
+The first unit test was done by entering target sum values that were as a pair of numbers in the list. The following image shows the result:
+
 ![Output Test 1](ImageResource/OutputTest1.jpg)
+
+The second unit test was done by entering target sum values that were not as a pair of numbers in the list. The following image shows the result:
+
 ![Output Test 2](ImageResource/OutputTest2.jpg)
 
 ----
